@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>c:\equinoxe consulting\developement\articles\continuumdetection\continuumdetection\mainpage.xaml</string>
+      <string>c:\equinoxe consulting\developement\articles\continuumdetection\continuumdetection\mainpage.xaml.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>c:\equinoxe consulting\developement\articles\continuumdetection\continuumdetection\continuumstatetrigger.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>c:\equinoxe consulting\developement\articles\continuumdetection\continuumdetection\continuumhelper.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>c:\equinoxe consulting\developement\articles\continuumdetection\continuumdetection\app.xaml.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>ContinuumDetection</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>
